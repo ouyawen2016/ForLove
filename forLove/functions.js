@@ -1,6 +1,3 @@
-/*
- * http://love.hackerzhou.me
- */
 
 // variables
 var $win = $(window);
@@ -55,6 +52,6 @@ function timeElapse(date){
 	if (seconds < 10) {
 		seconds = "0" + seconds;
 	}
-	var result = "第 <span class=\"digit\">" + days + "</span> 天 <span class=\"digit\">" + hours + "</span> 小时 <span class=\"digit\">" + minutes + "</span> 分钟 <span class=\"digit\">" + seconds + "</span> 秒"; 
+	var result = " <span class=\"digit\">" + days + "</span> days <span class=\"digit\">" + hours + "</span> hou <span class=\"digit\">" + minutes + "</span> minutes <span class=\"digit\">" + seconds + "</span> seconds"; 
 	$("#clock").html(result);
 }
