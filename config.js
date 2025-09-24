@@ -49,7 +49,7 @@ var CONFIG = {
             year: 2025, //项目的提交时间 把它改成你们的纪念日
             month: 8,  // 注意：JavaScript中月份从0开始，8表示9月
             day: 24,
-            hour: 12,
+            hour: 0,
             minute: 44,
             second: 5,
             millisecond: 5
