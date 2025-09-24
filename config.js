@@ -47,7 +47,7 @@ var CONFIG = {
     time: {
         startDate: {
             year: 2025, //项目的提交时间 把它改成你们的纪念日
-            month: 8,  // 注意：JavaScript中月份从0开始，3表示4月 历史遗留问题 懒得改了
+            month: 8,  // 注意：JavaScript中月份从0开始，8表示9月
             day: 24,
             hour: 12,
             minute: 44,
