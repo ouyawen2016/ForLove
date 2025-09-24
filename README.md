@@ -16,7 +16,7 @@
 
 ```
 forlove-project/
-├── forLove.html          # 主页面文件
+├── index.html            # 主页面文件（GitHub Pages入口）
 ├── (音频文件需用户自行添加)  # 背景音乐文件
 ├── config.js            # 配置文件（文本、时间、动画参数）
 ├── forLove/             # 核心功能目录
@@ -30,7 +30,7 @@ forlove-project/
 
 ## 核心文件说明
 
-- **forLove.html**: 主页面，包含HTML结构和JavaScript动画逻辑
+- **index.html**: 主页面，包含HTML结构和JavaScript动画逻辑
 - **config.js**: 配置文件，包含所有可自定义的文本、时间和动画参数
 - **forLove/love.js**: 树形动画的核心实现，包含Tree、Seed、Branch、Bloom等类
 - **forLove/functions.js**: 倒计时计算和打字机效果实现
@@ -39,7 +39,7 @@ forlove-project/
 ## 使用方法
 
 ### 基本使用
-1. 直接在浏览器中打开 `forLove.html` 文件
+1. 直接在浏览器中打开 `index.html` 文件
 2. 或者部署到Web服务器上访问
 
 ### 交互操作

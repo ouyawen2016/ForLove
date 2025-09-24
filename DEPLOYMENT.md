@@ -1,9 +1,7 @@
 # GitHub部署指南
 
-## 项目已部署到GitHub
+## Fork 这个仓库
 
-你的ForLove项目已经成功部署到GitHub仓库：
-**https://github.com/ouyawen2016/ForLove**
 
 ## 启用GitHub Pages
 
@@ -22,7 +20,7 @@
 
 ### 3. 访问你的网站
 配置完成后，你的网站将在以下地址可用：
-**https://ouyawen2016.github.io/ForLove/**
+**https://yourname/ForLove/**
 
 ## 更新项目
 
@@ -38,22 +36,6 @@ git commit -m "描述你的更改"
 # 推送到GitHub
 git push origin main
 ```
-
-## 自定义域名（可选）
-
-如果你想使用自定义域名：
-
-1. 在项目根目录创建 `CNAME` 文件
-2. 在文件中写入你的域名，例如：`mylove.com`
-3. 在你的域名DNS设置中添加CNAME记录指向 `ouyawen2016.github.io`
-
-## 项目特点
-
-- ✅ 完全静态网站，无需服务器
-- ✅ 自动HTTPS加密
-- ✅ 全球CDN加速
-- ✅ 免费托管
-- ✅ 自动部署（推送代码即更新网站）
 
 ## 注意事项
 
@@ -72,4 +54,4 @@ git push origin main
 ## 项目链接
 
 - **GitHub仓库**: https://github.com/ouyawen2016/ForLove
-- **在线演示**: https://ouyawen2016.github.io/ForLove/ (配置GitHub Pages后可用)
+- **在线演示**: https://ouyawen2016.github.io/ForLove/

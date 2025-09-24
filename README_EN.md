@@ -15,7 +15,7 @@ A romantic HTML5 love animation webpage with tree growth animation, countdown ti
 
 ```
 forlove-project/
-├── forLove.html          # Main page file
+├── index.html            # Main page file (GitHub Pages entry point)
 ├── (Audio file to be added by user)  # Background music file
 ├── config.js            # Configuration file (text, time, animation parameters)
 ├── forLove/             # Core functionality directory
@@ -29,7 +29,7 @@ forlove-project/
 
 ## Core Files
 
-- **forLove.html**: Main page with HTML structure and JavaScript animation logic
+- **index.html**: Main page with HTML structure and JavaScript animation logic
 - **config.js**: Configuration file containing all customizable text, time and animation parameters
 - **forLove/love.js**: Core implementation of tree animation, including Tree, Seed, Branch, Bloom classes
 - **forLove/functions.js**: Countdown calculation and typewriter effect implementation
@@ -38,7 +38,7 @@ forlove-project/
 ## Usage
 
 ### Basic Usage
-1. Open `forLove.html` directly in browser
+1. Open `index.html` directly in browser
 2. Or deploy to web server for access
 
 ### Interactive Operations
